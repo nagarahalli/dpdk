@@ -1,10 +1,11 @@
+# Ubuntu Eoan
 language: c
 cache: ccache
 compiler:
   - gcc
   - clang
 
-dist: xenial
+dist: eoan
 
 os:
   - linux
